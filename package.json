@@ -1,0 +1,23 @@
+{
+  "name": "creating-server",
+  "version": "1.0.0",
+  "description": "first Nodejs server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry-Rahul/Creating-Server.git"
+  },
+  "author": "Rahul yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ry-Rahul/Creating-Server/issues"
+  },
+  "homepage": "https://github.com/ry-Rahul/Creating-Server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
